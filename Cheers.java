@@ -22,7 +22,7 @@ public class Cheers {
                 break;
                         }
                         }
-               System.out.println("Give me " + psic + " " + letter + ":" + letter + "!");
+               System.out.println("Give me " + psic + "  " + letter + ": " + letter + "!");
 
             }
             System.out.println("What does that spell?");
