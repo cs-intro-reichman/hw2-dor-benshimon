@@ -27,7 +27,7 @@ public class Cheers {
             }
             System.out.println("What does that spell?");
             for(int i = 0; i<x; i++){
-            System.out.println("RUNI!!!");
+            System.out.println(word + "!!!");
         }
 }
 }
