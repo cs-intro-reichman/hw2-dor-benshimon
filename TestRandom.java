@@ -2,5 +2,24 @@
 public  class  TestRandom {
 	public static void main(String[]  args) {
 	    // Replace this comment with your code
+		int test = Integer.parseInt(args[0]);
+		int big = 0;
+		int small =0;
+		for (int i = 0; i < test; i++) {
+			double randomNum = Math.random();
+		if (randomNum>0.5) {
+			big++;
+		}else{
+			small++;
+		}
 	}
-}
+	
+		System.out.println("> 0.5:" + big + "times");
+		System.out.println("<= 0.5:" + small + "times");
+			
+}	
+		
+			
+		}
+
+
