@@ -17,8 +17,8 @@ public class CalcPi {
 
 				double newpies = pies*4;
 			
-			System.out.println("pi according to Java:" + Math.PI);
-				System.out.println("pi, approximated:" +newpies);
+			System.out.println("pi according to Java: " + Math.PI);
+				System.out.println("pi, approximated: " +newpies);
 			
 		
 			 
